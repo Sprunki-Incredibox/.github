@@ -1,0 +1,16 @@
+{
+  "name": "sprunki-game",
+  "version": "1.0.0",
+  "description": "A fan-made rhythm game inspired by Incredibox where players can create unique music with characters.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["sprunki", "incredibox", "music", "rhythm game"],
+  "author": "Sprunki Game Dev Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
