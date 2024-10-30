@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Package lock files
+package-lock.json
+yarn.lock
